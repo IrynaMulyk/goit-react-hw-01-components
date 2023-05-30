@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/IrynaMulyk/react-app/static/css/main.115d583e.css",
+    "main.js": "/IrynaMulyk/react-app/static/js/main.72cbf2b4.js",
+    "index.html": "/IrynaMulyk/react-app/index.html",
+    "main.115d583e.css.map": "/IrynaMulyk/react-app/static/css/main.115d583e.css.map",
+    "main.72cbf2b4.js.map": "/IrynaMulyk/react-app/static/js/main.72cbf2b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.115d583e.css",
+    "static/js/main.72cbf2b4.js"
+  ]
+}
