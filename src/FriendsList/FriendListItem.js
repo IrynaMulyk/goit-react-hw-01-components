@@ -5,7 +5,7 @@ import css from "./FriendsList.module.css";
 const FriendListItem = ({ friend }) => {
   return (
     <li className={css.item}>
-      <span className={friend.isOnline ? css.isOnline : css.isOffline}></span>
+      <span className={friend.isOnline ? css.isOnline : css.isOffline}/>
       <img
         className={css.avatar}
         src={friend.avatar}
